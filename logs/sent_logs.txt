@@ -1,0 +1,161 @@
+2026-05-18 12:19:09.629083 - Failed for Silkrise Construction (+44 161 791 2676)
+2026-05-18 12:19:43.000926 - Failed for SB contracts (nan)
+2026-05-18 12:20:15.671901 - Failed for MSB Joinery (+44 7929 931818)
+2026-05-18 12:20:48.346846 - Failed for Meridian Construction & Refurbishments Ltd (+44 161 676 2021)
+2026-05-18 12:27:40.727948 - Failed for Silkrise Construction (+44 161 791 2676)
+2026-05-18 12:28:16.096522 - Message sent to MSB Joinery (+44 7929 931818)
+2026-05-18 12:28:48.942944 - Failed for Meridian Construction & Refurbishments Ltd (+44 161 676 2021)
+2026-05-18 12:29:09.127262 - Error for Manchester Contractors: Message: unknown error: net::ERR_CONNECTION_CLOSED
+  (Session info: chrome=148.0.7778.168)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x2f7123+10a23]
+	chromedriver!GetHandleVerifier [0x2f7254+10b54]
+	chromedriver!(No symbol) [0x111e90]
+	chromedriver!(No symbol) [0x10f39e]
+	chromedriver!(No symbol) [0x102414]
+	chromedriver!(No symbol) [0x103e70]
+	chromedriver!(No symbol) [0x10289f]
+	chromedriver!(No symbol) [0x1021e5]
+	chromedriver!(No symbol) [0x101ee5]
+	chromedriver!(No symbol) [0xffff8]
+	chromedriver!(No symbol) [0x10070a]
+	chromedriver!(No symbol) [0x11592e]
+	chromedriver!(No symbol) [0x19b3a4]
+	chromedriver!(No symbol) [0x17d78c]
+	chromedriver!(No symbol) [0x19a936]
+	chromedriver!(No symbol) [0x17d526]
+	chromedriver!(No symbol) [0x1508f9]
+	chromedriver!(No symbol) [0x1516b4]
+	chromedriver!GetHandleVerifier [0x591ac4+2ab3c4]
+	chromedriver!GetHandleVerifier [0x58d0ed+2a69ed]
+	chromedriver!GetHandleVerifier [0x5ae4f5+2c7df5]
+	chromedriver!GetHandleVerifier [0x311128+2aa28]
+	chromedriver!GetHandleVerifier [0x318bbd+324bd]
+	chromedriver!GetHandleVerifier [0x2ffb28+19428]
+	chromedriver!GetHandleVerifier [0x2ffcd5+195d5]
+	chromedriver!GetHandleVerifier [0x2e91cf+2acf]
+	KERNEL32!BaseThreadInitThunk [0x75e25d49+19]
+	ntdll!RtlInitializeExceptionChain [0x775fd83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x775fd7c1+231]
+	(No symbol) [(nil)]
+
+2026-05-18 12:29:24.091069 - Message sent to The Handyman Company Manchester. (+44 7377 434555)
+2026-05-18 12:29:58.757457 - Message sent to GetHandyTrades (+44 7379 222806)
+2026-05-18 12:30:33.687453 - Message sent to KWS Builders Ltd (+44 7404 155474)
+2026-05-18 12:31:08.374133 - Message sent to Renovation HighRollers General Contractor (+44 7350 080717)
+2026-05-18 12:31:41.257322 - Failed for Frank Plumbing Services Ltd (+44 7457 423606)
+2026-05-18 12:32:15.990539 - Message sent to The Mancunian Handyman (+44 7895 323075)
+2026-05-18 12:32:50.683851 - Message sent to Manchester Constructions | Home Extensions, Renovations and Joinery Services (+44 7886 345667)
+2026-05-18 12:33:24.299990 - Failed for SJS Drainage Services (+44 7828 493382)
+2026-05-18 12:33:59.198492 - Message sent to Local Plumbers and Heating (+44 7462 009448)
+2026-05-18 12:34:31.944281 - Failed for AAA Security Shutters (+44 161 706 1118)
+2026-05-18 12:35:06.797584 - Message sent to M.Ashworth Electrical Ltd. (+44 7311 798236)
+2026-05-18 12:35:41.518059 - Message sent to Risat Pluming Services (+44 7413 889689)
+2026-05-18 12:36:16.592877 - Message sent to Northwest Cleaning Experts LTD (+44 7985 771996)
+2026-05-18 12:36:51.239462 - Message sent to Concept Bathroom Design (+44 7881 525978)
+2026-05-18 12:37:26.681426 - Message sent to D Deep cleaning Services ltd (+44 7459 416262)
+2026-05-18 12:53:01.306559 - Failed for Silkrise Construction (+44 161 791 2676)
+2026-05-18 12:53:34.593896 - Failed for Meridian Construction & Refurbishments Ltd (+44 161 676 2021)
+2026-05-18 12:54:08.570585 - Failed for Manchester Contractors (+44 800 001 6720)
+2026-05-18 12:54:40.990500 - Failed for Frank Plumbing Services Ltd (+44 7457 423606)
+2026-05-18 12:55:15.575262 - Message sent to SJS Drainage Services (+44 7828 493382)
+2026-05-18 12:55:48.105175 - Failed for AAA Security Shutters (+44 161 706 1118)
+2026-05-18 12:56:22.741943 - Message sent to Spring Staffing Cleaning Services Ltd (+44 7493 756203)
+2026-05-18 12:56:42.883011 - Error for Heating and Plumbing Nationwide: Message: unknown error: net::ERR_CONNECTION_CLOSED
+  (Session info: chrome=148.0.7778.168)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x11a7123+10a23]
+	chromedriver!GetHandleVerifier [0x11a7254+10b54]
+	chromedriver!(No symbol) [0xfc1e90]
+	chromedriver!(No symbol) [0xfbf39e]
+	chromedriver!(No symbol) [0xfb2414]
+	chromedriver!(No symbol) [0xfb3e70]
+	chromedriver!(No symbol) [0xfb289f]
+	chromedriver!(No symbol) [0xfb21e5]
+	chromedriver!(No symbol) [0xfb1ee5]
+	chromedriver!(No symbol) [0xfafff8]
+	chromedriver!(No symbol) [0xfb070a]
+	chromedriver!(No symbol) [0xfc592e]
+	chromedriver!(No symbol) [0x104b3a4]
+	chromedriver!(No symbol) [0x102d78c]
+	chromedriver!(No symbol) [0x104a936]
+	chromedriver!(No symbol) [0x102d526]
+	chromedriver!(No symbol) [0x10008f9]
+	chromedriver!(No symbol) [0x10016b4]
+	chromedriver!GetHandleVerifier [0x1441ac4+2ab3c4]
+	chromedriver!GetHandleVerifier [0x143d0ed+2a69ed]
+	chromedriver!GetHandleVerifier [0x145e4f5+2c7df5]
+	chromedriver!GetHandleVerifier [0x11c1128+2aa28]
+	chromedriver!GetHandleVerifier [0x11c8bbd+324bd]
+	chromedriver!GetHandleVerifier [0x11afb28+19428]
+	chromedriver!GetHandleVerifier [0x11afcd5+195d5]
+	chromedriver!GetHandleVerifier [0x11991cf+2acf]
+	KERNEL32!BaseThreadInitThunk [0x75e25d49+19]
+	ntdll!RtlInitializeExceptionChain [0x775fd83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x775fd7c1+231]
+
+2026-05-18 12:56:55.508451 - Failed for ALLCLEAR (+44 1827 896114)
+2026-05-18 12:57:30.476535 - Message sent to Wideway Global Limited (+44 7578 966611)
+2026-05-18 12:58:05.278306 - Message sent to Brightup Professional Cleaning Services Limited (+44 7404 777396)
+2026-05-18 12:58:39.925517 - Message sent to Glowup For People (+44 7541 982552)
+2026-05-18 12:59:14.702493 - Message sent to Forge Plumbing & Heating (+44 7404 832911)
+2026-05-18 12:59:49.429504 - Message sent to Feliclean (+44 7400 661133)
+2026-05-18 13:00:23.991271 - Message sent to Deepfresh Service UK Ltd (+44 7404 878868)
+2026-05-18 13:00:58.575595 - Message sent to One Expert Cleaning Services (+44 7908 975933)
+2026-05-18 13:01:33.482529 - Message sent to WilloPlumb (+44 7795 096966)
+2026-05-18 13:02:06.341439 - Failed for Alltite Roller Shutters (+44 161 681 6775)
+2026-05-18 13:02:39.129330 - Failed for Fleurets (+44 161 683 5445)
+2026-05-18 13:03:14.926035 - Message sent to Sharon Bentley integrated cleaning services (+44 7770 564030)
+2026-05-18 13:03:49.736344 - Message sent to TER Cleaning Services (+44 7961 917419)
+2026-05-18 13:04:22.350557 - Failed for Pureshine Cleaners Manchester (+44 161 568 3324)
+2026-05-18 13:04:57.034797 - Message sent to CleanmoveExperts cleaning Services (+44 7424 235043)
+2026-05-18 13:05:31.515439 - Failed for Welgo Builders Ltd (+44 161 459 7003)
+2026-05-18 13:06:05.134320 - Failed for MOBIN BUILDING LTD (+44 7400 206090)
+2026-05-18 13:06:37.728007 - Failed for W.K.B Plumbing AND HEATING (+44 161 720 9898)
+2026-05-18 13:07:12.124925 - Failed for TeamOne solutions LTD (+44 7730 569750)
+2026-05-18 13:07:49.417423 - Message sent to Lomacom Cleaning Services (+44 7769 622171)
+2026-05-18 13:08:24.675313 - Message sent to Rota Removals (+44 7359 226822)
+2026-05-18 13:08:57.704271 - Failed for Anstey Horne (0161 528 7690)
+2026-05-18 13:09:30.526051 - Failed for Branwoods Roof & Building (+44 161 394 1494)
+2026-05-18 13:10:03.171166 - Failed for C&R Property & Construction Ltd (+44 7528 989995)
+2026-05-18 13:10:37.998696 - Message sent to Alberti Lupton Co Ltd (+44 161 681 1272)
+2026-05-18 13:11:10.639496 - Failed for Broadhurst Park (+44 161 769 2005)
+2026-05-18 13:11:43.831564 - Failed for Brentwood Lettings (+44 161 681 3724)
+2026-05-18 13:12:19.322136 - Failed for Create It Studio Architects (+44 161 521 3234)
+2026-05-18 13:12:57.464900 - Message sent to M1 Architecture (+44 330 311 9695)
+2026-05-18 13:13:30.062489 - Failed for Jeffrey Jordan Architects (+44 161 823 1181)
+2026-05-18 13:14:02.725986 - Failed for Grant Erskine Architects Ltd (+44 161 236 9761)
+2026-05-18 13:14:37.783360 - Message sent to Architecture Unknown Ltd (+44 7894 012780)
+2026-05-18 13:15:10.454832 - Failed for AEW Architects | Manchester (+44 161 214 4370)
+2026-05-18 13:15:46.081628 - Message sent to BARCX (+44 7533 142213)
+2026-05-18 13:16:19.183370 - Failed for 5plus Architects (+44 161 228 0211)
+2026-05-18 13:16:51.927135 - Failed for DSquare Architects (+44 161 222 3734)
+2026-05-18 13:17:27.974665 - Message sent to Clarkes Bespoke Design Ltd (+44 7402 266305)
+2026-05-18 13:18:00.599998 - Failed for The Sharp Project (+44 161 205 5508)
+2026-05-18 13:18:33.491364 - Failed for NADA Architects (+44 161 635 0310)
+2026-05-18 13:19:06.051356 - Failed for AHR Architects | Manchester (+44 161 828 7900)
+2026-05-18 13:19:39.109172 - Failed for Triangle Architects Ltd (+44 161 272 3500)
+2026-05-18 13:20:11.787783 - Failed for AFL Architects (+44 161 236 6263)
+2026-05-18 13:20:44.919513 - Failed for Define Architects (+44 161 528 9492)
+2026-05-18 13:51:48.723512 - Failed for Silkrise Construction (+44 161 791 2676)
+2026-05-18 13:52:22.686905 - Failed for Meridian Construction & Refurbishments Ltd (+44 161 676 2021)
+2026-05-18 13:52:56.056862 - Failed for Manchester Contractors (+44 800 001 6720)
+2026-05-18 13:53:29.174404 - Failed for Frank Plumbing Services Ltd (+44 7457 423606)
+2026-05-18 13:54:02.273203 - Failed for AAA Security Shutters (+44 161 706 1118)
+2026-05-18 13:54:37.191173 - Message sent to Heating and Plumbing Nationwide (+44 7969 547382)
+2026-05-18 13:55:09.693817 - Failed for ALLCLEAR (+44 1827 896114)
+2026-05-18 13:55:42.207525 - Failed for Alltite Roller Shutters (+44 161 681 6775)
+2026-05-18 13:56:15.009302 - Failed for Fleurets (+44 161 683 5445)
+2026-05-18 13:56:47.488712 - Failed for Pureshine Cleaners Manchester (+44 161 568 3324)
+2026-05-18 13:57:20.131867 - Failed for Welgo Builders Ltd (+44 161 459 7003)
+2026-05-18 13:57:52.904544 - Failed for MOBIN BUILDING LTD (+44 7400 206090)
+2026-05-18 13:58:25.405493 - Failed for W.K.B Plumbing AND HEATING (+44 161 720 9898)
+2026-05-18 13:58:57.948318 - Failed for TeamOne solutions LTD (+44 7730 569750)
+2026-05-18 13:59:30.497737 - Failed for Anstey Horne (0161 528 7690)
+2026-05-18 14:00:03.084062 - Failed for Branwoods Roof & Building (+44 161 394 1494)
+2026-05-18 14:00:35.716838 - Failed for C&R Property & Construction Ltd (+44 7528 989995)
+2026-05-18 14:01:08.348812 - Failed for Broadhurst Park (+44 161 769 2005)
+2026-05-18 14:01:40.986972 - Failed for Brentwood Lettings (+44 161 681 3724)
+2026-05-18 14:02:13.705789 - Failed for Create It Studio Architects (+44 161 521 3234)
+2026-05-18 14:02:46.178232 - Failed for Jeffrey Jordan Architects (+44 161 823 1181)
+2026-05-18 14:04:21.478220 - Failed for Grant Erskine Architects Ltd (+44 161 236 9761)
