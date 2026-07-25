@@ -1,4 +1,4 @@
-# WhatsApp UK Lead Automation
+# WhatsApp Lead Automation
 
 Automated WhatsApp outreach system using:
 - Python
